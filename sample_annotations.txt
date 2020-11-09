@@ -1,0 +1,211 @@
+GSM609632	Basophils	sample 1
+GSM609633	Basophils	sample 2
+GSM609634	Basophils	sample 3
+GSM609635	Basophils	sample 4
+GSM609636	Basophils	sample 5
+GSM609637	Basophils	sample 6
+GSM609638	Naive B-cells	sample 1
+GSM609639	Naive B-cells	sample 2
+GSM609640	Naive B-cells	sample 3
+GSM609641	Naive B-cells	sample 4
+GSM609642	Naive B-cells	sample 5
+GSM609643	Mature B-cell class able to switch	sample 1
+GSM609644	Mature B-cell class able to switch	sample 2
+GSM609645	Mature B-cell class able to switch	sample 3
+GSM609646	Mature B-cell class able to switch	sample 4
+GSM609647	Mature B-cell class able to switch	sample 5
+GSM609648	Mature B-cells	sample 1
+GSM609649	Mature B-cells	sample 2
+GSM609650	Mature B-cells	sample 3
+GSM609651	Mature B-cells	sample 4
+GSM609652	Mature B-cells	sample 5
+GSM609653	Mature B-cell class switched	sample 1
+GSM609654	Mature B-cell class switched	sample 2
+GSM609655	Mature B-cell class switched	sample 3
+GSM609656	Mature B-cell class switched	sample 4
+GSM609657	Mature B-cell class switched	sample 5
+GSM609658	Common myeloid progenitor	sample 1
+GSM609659	Common myeloid progenitor	sample 2
+GSM609660	Common myeloid progenitor	sample 3
+GSM609661	Common myeloid progenitor	sample 4
+GSM609662	Plasmacytoid Dendritic Cell	sample 1
+GSM609663	Plasmacytoid Dendritic Cell	sample 2
+GSM609664	Plasmacytoid Dendritic Cell	sample 3
+GSM609665	Plasmacytoid Dendritic Cell	sample 4
+GSM609666	Plasmacytoid Dendritic Cell	sample 5
+GSM609667	Myeloid Dendritic Cell	sample 1
+GSM609668	Myeloid Dendritic Cell	sample 2
+GSM609669	Myeloid Dendritic Cell	sample 3
+GSM609670	Myeloid Dendritic Cell	sample 4
+GSM609671	Myeloid Dendritic Cell	sample 5
+GSM609672	Eosinophill	sample 1
+GSM609673	Eosinophill	sample 2
+GSM609674	Eosinophill	sample 3
+GSM609675	Eosinophill	sample 4
+GSM609676	Eosinophill	sample 5
+GSM609677	Erythroid_CD34+ CD71+ GlyA-	sample 1
+GSM609678	Erythroid_CD34+ CD71+ GlyA-	sample 2
+GSM609679	Erythroid_CD34+ CD71+ GlyA-	sample 3
+GSM609680	Erythroid_CD34+ CD71+ GlyA-	sample 4
+GSM609681	Erythroid_CD34+ CD71+ GlyA-	sample 5
+GSM609682	Erythroid_CD34+ CD71+ GlyA-	sample 6
+GSM609683	Erythroid_CD34+ CD71+ GlyA-	sample 7
+GSM609684	Erythroid_CD34- CD71+ GlyA-	sample 1
+GSM609685	Erythroid_CD34- CD71+ GlyA-	sample 2
+GSM609686	Erythroid_CD34- CD71+ GlyA-	sample 3
+GSM609687	Erythroid_CD34- CD71+ GlyA-	sample 4
+GSM609688	Erythroid_CD34- CD71+ GlyA-	sample 5
+GSM609689	Erythroid_CD34- CD71+ GlyA-	sample 6
+GSM609690	Erythroid_CD34- CD71+ GlyA-	sample 7
+GSM609691	Erythroid_CD34- CD71+ GlyA+	sample 1
+GSM609692	Erythroid_CD34- CD71+ GlyA+	sample 2
+GSM609693	Erythroid_CD34- CD71+ GlyA+	sample 3
+GSM609694	Erythroid_CD34- CD71+ GlyA+	sample 4
+GSM609695	Erythroid_CD34- CD71+ GlyA+	sample 5
+GSM609696	Erythroid_CD34- CD71+ GlyA+	sample 6
+GSM609697	Erythroid_CD34- CD71lo GlyA+	sample 1
+GSM609698	Erythroid_CD34- CD71lo GlyA+	sample 2
+GSM609699	Erythroid_CD34- CD71lo GlyA+	sample 3
+GSM609700	Erythroid_CD34- CD71lo GlyA+	sample 4
+GSM609701	Erythroid_CD34- CD71lo GlyA+	sample 5
+GSM609702	Erythroid_CD34- CD71lo GlyA+	sample 6
+GSM609703	Erythroid_CD34- CD71lo GlyA+	sample 7
+GSM609704	Erythroid_CD34- CD71- GlyA+	sample 1
+GSM609705	Erythroid_CD34- CD71- GlyA+	sample 2
+GSM609706	Erythroid_CD34- CD71- GlyA+	sample 3
+GSM609707	Erythroid_CD34- CD71- GlyA+	sample 4
+GSM609708	Erythroid_CD34- CD71- GlyA+	sample 5
+GSM609709	Erythroid_CD34- CD71- GlyA+	sample 6
+GSM609710	Granulocyte/monocyte progenitor	sample 1
+GSM609711	Granulocyte/monocyte progenitor	sample 2
+GSM609712	Granulocyte/monocyte progenitor	sample 3
+GSM609713	Granulocyte/monocyte progenitor	sample 4
+GSM609714	Colony Forming Unit-Granulocyte 	sample 1
+GSM609715	Colony Forming Unit-Granulocyte 	sample 2
+GSM609716	Colony Forming Unit-Granulocyte 	sample 3
+GSM609717	Colony Forming Unit-Granulocyte 	sample 4
+GSM609718	Colony Forming Unit-Granulocyte 	sample 5
+GSM609719	Granulocyte (Neutrophilic Metamyelocyte)	sample 1
+GSM609720	Granulocyte (Neutrophilic Metamyelocyte)	sample 2
+GSM609721	Granulocyte (Neutrophilic Metamyelocyte)	sample 3
+GSM609722	Granulocyte (Neutrophilic Metamyelocyte)	sample 4
+GSM609723	Granulocyte (Neutrophil)	sample 1
+GSM609724	Granulocyte (Neutrophil)	sample 2
+GSM609725	Granulocyte (Neutrophil)	sample 3
+GSM609726	Granulocyte (Neutrophil)	sample 4
+GSM609727	Hematopoietic stem cell_CD133+ CD34dim	sample 1
+GSM609728	Hematopoietic stem cell_CD133+ CD34dim	sample 2
+GSM609729	Hematopoietic stem cell_CD133+ CD34dim	sample 3
+GSM609730	Hematopoietic stem cell_CD133+ CD34dim	sample 4
+GSM609731	Hematopoietic stem cell_CD133+ CD34dim	sample 5
+GSM609732	Hematopoietic stem cell_CD133+ CD34dim	sample 6
+GSM609733	Hematopoietic stem cell_CD133+ CD34dim	sample 7
+GSM609734	Hematopoietic stem cell_CD133+ CD34dim	sample 8
+GSM609735	Hematopoietic stem cell_CD133+ CD34dim	sample 9
+GSM609736	Hematopoietic stem cell_CD133+ CD34dim	sample 10
+GSM609737	Hematopoietic stem cell_CD38- CD34+	sample 1
+GSM609738	Hematopoietic stem cell_CD38- CD34+	sample 2
+GSM609739	Hematopoietic stem cell_CD38- CD34+	sample 3
+GSM609740	Hematopoietic stem cell_CD38- CD34+	sample 4
+GSM609741	Colony Forming Unit-Megakaryocytic 	sample 1
+GSM609742	Colony Forming Unit-Megakaryocytic 	sample 2
+GSM609743	Colony Forming Unit-Megakaryocytic 	sample 3
+GSM609744	Colony Forming Unit-Megakaryocytic 	sample 4
+GSM609745	Colony Forming Unit-Megakaryocytic 	sample 5
+GSM609746	Megakaryocyte	sample 1
+GSM609747	Megakaryocyte	sample 2
+GSM609748	Megakaryocyte	sample 3
+GSM609749	Megakaryocyte	sample 4
+GSM609750	Megakaryocyte	sample 5
+GSM609751	Megakaryocyte	sample 6
+GSM609752	Megakaryocyte	sample 7
+GSM609753	Megakaryocyte/ erythroid progenitor	sample 1
+GSM609754	Megakaryocyte/ erythroid progenitor	sample 2
+GSM609755	Megakaryocyte/ erythroid progenitor	sample 3
+GSM609756	Megakaryocyte/ erythroid progenitor	sample 4
+GSM609757	Megakaryocyte/ erythroid progenitor	sample 5
+GSM609758	Megakaryocyte/ erythroid progenitor	sample 6
+GSM609759	Megakaryocyte/ erythroid progenitor	sample 7
+GSM609760	Megakaryocyte/ erythroid progenitor	sample 8
+GSM609761	Megakaryocyte/ erythroid progenitor	sample 9
+GSM609762	Colony Forming Unit-Monocyte 	sample 1
+GSM609763	Colony Forming Unit-Monocyte 	sample 2
+GSM609764	Colony Forming Unit-Monocyte 	sample 3
+GSM609765	Colony Forming Unit-Monocyte 	sample 4
+GSM609766	Monocyte	sample 1
+GSM609767	Monocyte	sample 2
+GSM609768	Monocyte	sample 3
+GSM609769	Monocyte	sample 4
+GSM609770	Monocyte	sample 5
+GSM609771	Mature NK cell_CD56- CD16+ CD3-	sample 1
+GSM609772	Mature NK cell_CD56- CD16+ CD3-	sample 2
+GSM609773	Mature NK cell_CD56- CD16+ CD3-	sample 3
+GSM609774	Mature NK cell_CD56- CD16+ CD3-	sample 4
+GSM609775	Mature NK cell_CD56+ CD16+ CD3-	sample 1
+GSM609776	Mature NK cell_CD56+ CD16+ CD3-	sample 2
+GSM609777	Mature NK cell_CD56+ CD16+ CD3-	sample 3
+GSM609778	Mature NK cell_CD56+ CD16+ CD3-	sample 4
+GSM609779	Mature NK cell_CD56+ CD16+ CD3-	sample 5
+GSM609780	Mature NK cell_CD56- CD16- CD3-	sample 1
+GSM609781	Mature NK cell_CD56- CD16- CD3-	sample 2
+GSM609782	Mature NK cell_CD56- CD16- CD3-	sample 3
+GSM609783	Mature NK cell_CD56- CD16- CD3-	sample 4
+GSM609784	Mature NK cell_CD56- CD16- CD3-	sample 5
+GSM609785	NKT	sample 1
+GSM609786	NKT	sample 2
+GSM609787	NKT	sample 3
+GSM609788	NKT	sample 4
+GSM609789	Early B-cell	sample 1
+GSM609790	Early B-cell	sample 2
+GSM609791	Early B-cell	sample 3
+GSM609792	Early B-cell	sample 4
+GSM609793	Pro B-cell	sample 1
+GSM609794	Pro B-cell	sample 2
+GSM609795	Pro B-cell	sample 3
+GSM609796	Pro B-cell	sample 4
+GSM609797	Pro B-cell	sample 5
+GSM609798	CD8+ Effector Memory RA	sample 1
+GSM609799	CD8+ Effector Memory RA	sample 2
+GSM609800	CD8+ Effector Memory RA	sample 3
+GSM609801	CD8+ Effector Memory RA	sample 4
+GSM609802	Naive CD8+ T-cell	sample 1
+GSM609803	Naive CD8+ T-cell	sample 2
+GSM609804	Naive CD8+ T-cell	sample 3
+GSM609805	Naive CD8+ T-cell	sample 4
+GSM609806	Naive CD8+ T-cell	sample 5
+GSM609807	Naive CD8+ T-cell	sample 6
+GSM609808	Naive CD8+ T-cell	sample 7
+GSM609809	CD8+ Effector Memory	sample 1
+GSM609810	CD8+ Effector Memory	sample 2
+GSM609811	CD8+ Effector Memory	sample 3
+GSM609812	CD8+ Effector Memory	sample 4
+GSM609813	CD8+ Effector Memory	sample 5
+GSM609814	CD8+ Effector Memory	sample 6
+GSM609815	CD8+ Central Memory	sample 1
+GSM609816	CD8+ Central Memory	sample 2
+GSM609817	CD8+ Central Memory	sample 3
+GSM609818	CD8+ Central Memory	sample 4
+GSM609819	CD8+ Central Memory	sample 5
+GSM609820	CD8+ Central Memory	sample 6
+GSM609821	CD8+ Central Memory	sample 7
+GSM609822	Naive CD4+ T-cell	sample 1
+GSM609823	Naive CD4+ T-cell	sample 2
+GSM609824	Naive CD4+ T-cell	sample 3
+GSM609825	Naive CD4+ T-cell	sample 4
+GSM609826	Naive CD4+ T-cell	sample 5
+GSM609827	Naive CD4+ T-cell	sample 6
+GSM609828	Naive CD4+ T-cell	sample 7
+GSM609829	CD4+ Effector Memory	sample 1
+GSM609830	CD4+ Effector Memory	sample 2
+GSM609831	CD4+ Effector Memory	sample 3
+GSM609832	CD4+ Effector Memory	sample 4
+GSM609833	CD4+ Effector Memory	sample 5
+GSM609834	CD4+ Effector Memory	sample 6
+GSM609835	CD4+ Effector Memory	sample 7
+GSM609836	CD4+ Central Memory	sample 1
+GSM609837	CD4+ Central Memory	sample 2
+GSM609838	CD4+ Central Memory	sample 3
+GSM609839	CD4+ Central Memory	sample 4
+GSM609840	CD4+ Central Memory	sample 5
+GSM609841	CD4+ Central Memory	sample 6
+GSM609842	CD4+ Central Memory	sample 7

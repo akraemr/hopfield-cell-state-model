@@ -1,0 +1,40 @@
+#From Reference [14]: The 38 hematopoietic cell populations purified by flow sorting and analyzed by gene expression profiling are illustrated in their respective positions in hema- topoiesis. (Gray) Hematopoietic stem cell (HSC1,2), common myeloid progenitor (CMP), megakaryocyte/erythroid progenitor (MEP). (Orange) Erythroid cells (ERY1–5). (Red) CFU-MK (MEGA1) and megakaryocyte (MEGA2). (Purple) Granulocyte/monocyte progenitor (GMP), CFU-G (GRAN1), neutrophilic meta- myelocyte (GRAN2), neutrophil (GRAN3), CFU-M (MONO1), monocytes (MONO2), eosinophil (EOS), and basophil (BASO). (Blue) Myeloid dendritic cell (DENDa2) and plasmacytoid dendritic cell (DENDa1). (Light green) Early B cell (Pre-BCELL2), pro-B cell (Pre-BCELL3), naive B cell (BCELLa1), mature B cell, class able to switch (BCELLa2), mature B cell (BCELLa3), and mature B cell, class switched (BCELLa4). (Dark green) Mature NK cell (NK1–4). (Turquoise) Naive CD8+ T cell (TCELL2), CD8+ effector memory RA (TCELL1), CD8+ effector memory (TCELL3), CD8+ central memory (TCELL4), naive CD4+ T cell (TCELL6), CD4+ effector memory (TCELL7), and CD4+ central memory (TCELL8). See Table S1 for markers information.
+#
+Basophils	BASO
+CD4+ Central Memory	TCELL8
+CD4+ Effector Memory	TCELL7
+CD8+ Central Memory	TCELL4
+CD8+ Effector Memory	TCELL3
+CD8+ Effector Memory RA	TCELL1
+Colony Forming Unit-Granulocyte 	GRAN1
+Colony Forming Unit-Megakaryocytic 	MEGA1
+Colony Forming Unit-Monocyte 	MONO1
+Common myeloid progenitor	CMP
+Early B-cell	Pre-BCELL2
+Eosinophill	EOS
+Erythroid_CD34+ CD71+ GlyA-	ERY1
+Erythroid_CD34- CD71+ GlyA+	ERY3
+Erythroid_CD34- CD71+ GlyA-	ERY2
+Erythroid_CD34- CD71- GlyA+	ERY5
+Erythroid_CD34- CD71lo GlyA+	ERY4
+Granulocyte (Neutrophil)	GRAN3
+Granulocyte (Neutrophilic Metamyelocyte)	GRAN2
+Granulocyte/monocyte progenitor	GMP
+Hematopoietic stem cell_CD133+ CD34dim	HSC1
+Hematopoietic stem cell_CD38- CD34+	HSC2
+Mature B-cell class able to switch	BCELLa2
+Mature B-cell class switched	BCELLa4
+Mature B-cells	BCELLa3
+Mature NK cell_CD56+ CD16+ CD3-	NK1
+Mature NK cell_CD56- CD16+ CD3-	NK2
+Mature NK cell_CD56- CD16- CD3-	NK3
+Megakaryocyte	MEGA2
+Megakaryocyte/ erythroid progenitor	MEP
+Monocyte	MONO2
+Myeloid Dendritic Cell	DENDa2
+NKT	NKT
+Naive B-cells	BCELLa1
+Naive CD4+ T-cell	TCELL6
+Naive CD8+ T-cell	TCELL2
+Plasmacytoid Dendritic Cell	DENDa1
+Pro B-cell	Pre-BCELL3

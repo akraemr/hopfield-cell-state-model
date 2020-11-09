@@ -1,0 +1,10 @@
+Supplementary Material
+
+Manuscript: Master regulators as order parameters of gene expression states
+
+Files included:
+
+data_analysis.ipynb          Jupyter notebook: complete source code to reproduce data analysis
+hematopoiesis_data.txt       microarray gene expression data for 38 human hematopoietic cell types mapped to HUGO gene symbols (GSE24759)
+sample_annotations.txt       annotate samples with respective cell type
+cell_types_short_form.txt    map to cell type symbols
